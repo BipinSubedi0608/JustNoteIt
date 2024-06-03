@@ -1,0 +1,112 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vs/
+.vscode/
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*~
+
+# Auto-generated files
+Generated/
+
+# Backup & log files
+*.bak
+*.log
+*.orig
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+build/
+Build/
+
+# Rider
+.idea/
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# MSTest
+*.testresults
+*.TestResult
+TestResults/
+
+# WebAPI
+wwwroot/
+node_modules/
+npm-debug.log
+yarn-error.log
+coverage/
+
+# OS generated files
+.DS_Store
+*.DS_Store
+._*
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE files
+/.idea/
+/.vscode/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/shelf/
+.idea/markdown-navigator/
+.idea/markdown-navigator.xml
+.idea/.gitignore
+.idea/vcs.xml
+.idea/java-git.ignore
+.idea/recentProjectDirectories.xml
+.idea/modules.xml
+.idea/.name
+.idea/.riderprojects/
+.idea/.templateSettings.xml
+.idea/.description
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+*.class
+*.dll
+*.exe
+*.swp
+*.swo
+*.pyc
+*.pyo
+__pycache__
+.cache
+*.pid
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
